@@ -39,6 +39,12 @@ This project uses **MVVM (Model-View-ViewModel)** combined with **Clean Architec
 - iOS 15.0+
 - Swift Package Manager (SPM) for dependencies
 
+### Code Quality Analysis
+
+The code quality of this project was evaluated, ensuring comprehensive test coverage and adherence to best practices. Below is a visual representation of the code quality analysis report:
+
+![Coverate](images/coverage_report.png)
+
 ### Steps
 
 1. Clone the repository:
