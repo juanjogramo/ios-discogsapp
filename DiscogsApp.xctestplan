@@ -1,0 +1,35 @@
+{
+  "configurations" : [
+    {
+      "id" : "03DEEC5B-47EA-4295-8587-BDE727B30A03",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    },
+    {
+      "id" : "A49CCAE5-7B14-4CAF-AAC7-DA305EF0052F",
+      "name" : "Configuration 2",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:DiscogsApp.xcodeproj",
+      "identifier" : "314471902CFEA64D00135A35",
+      "name" : "DiscogsApp"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:DiscogsApp.xcodeproj",
+        "identifier" : "314471A02CFEA64E00135A35",
+        "name" : "DiscogsAppTests"
+      }
+    }
+  ],
+  "version" : 1
+}
